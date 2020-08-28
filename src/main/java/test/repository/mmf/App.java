@@ -5,7 +5,7 @@ package test.repository.mmf;
 
 public class App {
     public String getGreeting() {
-        return "Hello world. Once again";
+        return "Hello world. Once again useless text";
     }
 
     public static void main(String[] args) {
